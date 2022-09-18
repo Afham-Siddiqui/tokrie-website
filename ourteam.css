@@ -1,0 +1,186 @@
+.mainteamdiv{
+    padding: 2%;
+}
+.mainteamdiv2{
+    padding: 2%;
+}
+.mainteamdiv3{
+    padding: 2%;
+}
+.person1{
+    border: 2px solid #95c122;
+    border-radius: 35px;
+    padding: 20px;
+    margin-bottom: 10%;
+}
+.ourteam{
+    color: #95c122;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 35px;
+}
+.person1img{
+    border-radius: 50%;
+    width: 18%;
+    box-sizing: border-box;
+    margin-top: -10%;
+    text-align: left;
+}
+.name1{
+    color: #E6007D;
+    font-size: 36px;
+    text-align: center;
+    margin-top: -8%;
+    margin-left: -35%;
+    font-weight: 1000;
+}
+.post1{
+    color: #7F8080;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -2%;
+    margin-left: -38%;
+    font-weight: 1000;
+}
+.person1intro{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 400;
+    color: #7F8080;
+}
+.person2{
+    border: 2px solid #95c122;
+    border-radius: 35px;
+    padding: 20px;
+    margin-bottom: 10%;
+}
+.person2img{
+    border-radius: 50%;
+    width: 18%;
+    box-sizing: border-box;
+    margin-top: -10%;
+    margin-right: 3%;
+}
+.person2photo{
+    text-align: right;
+}
+.name2{
+    color: #E6007D;
+    font-size: 36px;
+    text-align: right;
+    margin-top: -8%;
+    margin-right: 22%;
+    font-weight: 1000;
+}
+.post2{
+    color: #7F8080;
+    font-size: 28px;
+    text-align: right;
+    margin-top: -2%;
+    margin-right: 22%;
+    font-weight: 1000;
+}
+.person2intro{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 400;
+    color: #7F8080;
+}
+.person3{
+    border: 2px solid #95c122;
+    border-radius: 35px;
+    padding: 20px;
+    margin-bottom: 10%;
+}
+.person3img{
+    border-radius: 50%;
+    width: 18%;
+    box-sizing: border-box;
+    margin-top: -10%;
+    text-align: left;
+}
+.name3{
+    color: #E6007D;
+    font-size: 36px;
+    text-align: center;
+    margin-top: -8%;
+    margin-left: -35%;
+    font-weight: 1000;
+}
+.post3{
+    color: #7F8080;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -2%;
+    margin-left: -38%;
+    font-weight: 1000;
+}
+.person3intro{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 400;
+    color: #7F8080;
+}
+.person4{
+    border: 2px solid #95c122;
+    border-radius: 35px;
+    padding: 20px;
+    margin-bottom: 10%;
+}
+.person4img{
+    border-radius: 50%;
+    width: 18%;
+    box-sizing: border-box;
+    margin-top: -10%;
+    margin-right: 3%;
+}
+.person4photo{
+    text-align: right;
+}
+.name4{
+    color: #E6007D;
+    font-size: 36px;
+    text-align: right;
+    margin-top: -8%;
+    margin-right: 22%;
+    font-weight: 1000;
+}
+.post4{
+    color: #7F8080;
+    font-size: 28px;
+    text-align: right;
+    margin-top: -2%;
+    margin-right: 22%;
+    font-weight: 1000;
+}
+.person4intro{
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 400;
+    color: #7F8080;
+}
+.teamfooter{
+    background-color: gray;
+    color: white;
+    padding: 0.5%;
+    display: flex;
+}
+.footerp1{
+    margin-left: 100px;
+}
+.footerp2{
+    margin-left: 200px;
+}
+.footerp3{
+    margin-left: 30px;
+    text-decoration: none;
+}
+.footericons{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin-top: -3px;
+}
+.lastfoot{
+    margin-top: 10%;
+}

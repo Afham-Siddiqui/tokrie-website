@@ -1,0 +1,127 @@
+.mainformback{
+    background-color: #f2f2f2;
+}
+.mainform{
+    padding: 35px;
+}
+#a15{
+    height: 30px;
+    width: 600px;
+    border: transparent;
+}
+#a16{
+    border: transparent;
+}
+.subbut{
+    border: transparent;
+    color: #95c122;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+}
+.subbut:hover{
+    border: transparent;
+    color: black;
+    background-color: rgb(181, 172, 172);
+}
+.footer{
+    background-color: #7F8080;
+}
+.contactusfooter{
+    color: white;
+    margin-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footp1{
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.footh1{
+    font-size: 50px;
+}
+.footp2{
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.footp3{
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.footp4{
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.thirdbox{
+    background-color: white;
+    width: 380px;
+    margin-left: 60%;
+    margin-top: -445px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.third1{
+    text-align: center;
+    color: #999;
+}
+.third2{
+    text-align: center;
+    color: #999;
+}
+.third3{
+    text-align: center;
+    color: #999;
+}
+.third4{
+    text-align: center;
+    color: #999;
+}
+.third5{
+    text-align: center;
+    color: #999;
+}
+.third6{
+    text-align: center;
+    color: #999;
+}
+.third2link{
+    text-decoration: none;
+    color: #999;
+}
+.third3link{
+    text-decoration: none;
+    color: #999;
+}
+.third2link:hover{
+    cursor: pointer;
+    color: #95c122;
+}
+.third3link:hover{
+    cursor: pointer;
+    color: #95c122;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
